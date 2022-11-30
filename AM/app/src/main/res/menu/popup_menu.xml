@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+>
+    <item
+        android:id="@+id/nil"
+        android:title="all" />
+    <item
+        android:id="@+id/two"
+        android:title="wet" />
+    <item
+        android:id="@+id/one"
+        android:title="dry" />
+    <item
+        android:id="@+id/three"
+        android:title="mix"/>
+
+
+</menu>

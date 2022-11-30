@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TextView13" type="id" />
+    <item name="rg" type="id" />
+    <item name="RadioButton" type="id" />
+    <item name="RadioButton2" type="id" />
+</resources>
